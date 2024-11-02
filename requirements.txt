@@ -273,7 +273,7 @@ WebOb==1.8.8
 webscout==5.1
 websocket-client==1.8.0
 websockets==12.0
-Werkzeug==3.0.3
+Werkzeug==3.0.6
 wikipedia==1.4.0
 win10toast==0.9
 win32-setctime==1.1.0
