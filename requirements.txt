@@ -113,7 +113,7 @@ log-symbols==0.0.14
 loguru==0.6.0
 lxml==4.9.4
 markdown-it-py==3.0.0
-markdownify==0.13.1
+markdownify==0.14.1
 MarkupSafe==2.1.5
 matplotlib==3.9.2
 mdurl==0.1.2
